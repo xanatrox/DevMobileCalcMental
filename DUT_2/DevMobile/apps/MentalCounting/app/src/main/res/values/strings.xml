@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MentalCalculator</string>
+    <string name="button_play">"Let's play !"</string>
+    <string name="button_score">"Score"</string>
+    <string name="score">Score</string>
+    <string name="reset">Reset</string>
+    <string name="button_validate">Validate</string>
+    <string name="button_accueil">Main</string>
+    <string name="operation_label">X+Y</string>
+
+</resources>
